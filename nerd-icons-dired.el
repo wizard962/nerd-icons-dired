@@ -1,4 +1,4 @@
-;;; nerd-icons-dired.el
+;;; nerd-icons-dired.el --- Nerd icons dired library
 
 ;; Copyright (C) 2021 Wizard962 <smatyfei@gmail.com>
 
