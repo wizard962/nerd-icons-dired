@@ -59,7 +59,7 @@
 	            (unless (member file '("." ".."))
 		            (let ((filename (dired-get-filename nil t)))
 		              (if (file-directory-p filename)
-		                  (let* ((matcher (nerd-icons-match-to-alist file nerd-icons-dir-icon-alist))
+		                  (let* ((matcher (nerd-icons-match-to-alist file nerd-icons-dir-icon-spec))
 			                       (icon (cond
 				                            (remote-p
 				                             (nerd-icons-octicon "file-directory" :v-adjust nerd-icons-dired-v-adjust :face 'nerd-icons-dired-dir-face))
