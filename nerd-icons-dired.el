@@ -1,4 +1,4 @@
-;;; nerd-icons-dired
+;;; nerd-icons-dired.el
 
 ;; Copyright (C) 2021 Wizard962 <smatyfei@gmail.com>
 
